@@ -1,0 +1,21 @@
+{
+    "name": "iyiolapeter/yii2-sms",
+    "description": "Simple Yii2 Sms Notification Management Extension",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Iyiola Peter",
+            "email": "iyiolapeter@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "pso\\yii2\\sms\\": ""
+        }
+    }
+}
